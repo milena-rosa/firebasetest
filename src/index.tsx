@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {
   SafeAreaView,
   StyleSheet,
@@ -7,6 +7,7 @@ import {
   Text,
   StatusBar,
 } from 'react-native';
+import analytics from '@react-native-firebase/analytics';
 
 import {
   Header,
@@ -19,6 +20,14 @@ import {
 declare const global: {HermesInternal: null | {}};
 
 const App = () => {
+  useEffect(() => {
+    analytics().logEvent('event', {
+      eventCategory: 'app-teste-2-firebases',
+      eventAction: 'abrir',
+      eventLabel: 'qualquer-coisa',
+    });
+  }, []);
+
   return (
     <>
       <StatusBar barStyle="dark-content" />

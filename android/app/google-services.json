@@ -1,0 +1,378 @@
+{
+  "project_info": {
+    "project_number": "535715572555",
+    "firebase_url": "https://teste-de-analytics-2487a.firebaseio.com",
+    "project_id": "teste-de-analytics-2487a",
+    "storage_bucket": "teste-de-analytics-2487a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535715572555:android:64bc2da1d687ae22c416ce",
+        "android_client_info": {
+          "package_name": "br.com.zoly.androidjavaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535715572555-icbvusmdrj70hsdmssvauqvqkdqm6vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3NWnJPAHra96-CkMp3Etdhc0cl_y32I"
+        },
+        {
+          "current_key": "AIzaSyBd5273546UnuKly50rR_2vU00SEww4zSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535715572555-jf0a1do4g55undgv7o2ksno5mr1tcvd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535715572555-vp3qkp16q4gebjktm7486poq3poiiu36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactnativeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535715572555:android:1d27433778d9bfaec416ce",
+        "android_client_info": {
+          "package_name": "br.com.zoly.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535715572555-c271jpv31p70192cp1l1s055m1narbph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.zoly.blogapp",
+            "certificate_hash": "a24560023f123e29d98068b307f519fbb02ee894"
+          }
+        },
+        {
+          "client_id": "535715572555-icbvusmdrj70hsdmssvauqvqkdqm6vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3NWnJPAHra96-CkMp3Etdhc0cl_y32I"
+        },
+        {
+          "current_key": "AIzaSyBd5273546UnuKly50rR_2vU00SEww4zSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535715572555-jf0a1do4g55undgv7o2ksno5mr1tcvd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535715572555-vp3qkp16q4gebjktm7486poq3poiiu36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactnativeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535715572555:android:be8d4690d9705a0bc416ce",
+        "android_client_info": {
+          "package_name": "br.com.zoly.firebaseanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535715572555-5gr6762pn2uv70070gqro7f1colatnuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.zoly.firebaseanalytics",
+            "certificate_hash": "a24560023f123e29d98068b307f519fbb02ee894"
+          }
+        },
+        {
+          "client_id": "535715572555-icbvusmdrj70hsdmssvauqvqkdqm6vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3NWnJPAHra96-CkMp3Etdhc0cl_y32I"
+        },
+        {
+          "current_key": "AIzaSyBd5273546UnuKly50rR_2vU00SEww4zSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535715572555-jf0a1do4g55undgv7o2ksno5mr1tcvd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535715572555-vp3qkp16q4gebjktm7486poq3poiiu36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactnativeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535715572555:android:35fab9e95ac81343c416ce",
+        "android_client_info": {
+          "package_name": "br.com.zoly.firebasetests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535715572555-icbvusmdrj70hsdmssvauqvqkdqm6vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3NWnJPAHra96-CkMp3Etdhc0cl_y32I"
+        },
+        {
+          "current_key": "AIzaSyBd5273546UnuKly50rR_2vU00SEww4zSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535715572555-jf0a1do4g55undgv7o2ksno5mr1tcvd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535715572555-vp3qkp16q4gebjktm7486poq3poiiu36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactnativeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535715572555:android:8c93471abc70e382c416ce",
+        "android_client_info": {
+          "package_name": "br.com.zoly.mediaattribution_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535715572555-icbvusmdrj70hsdmssvauqvqkdqm6vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3NWnJPAHra96-CkMp3Etdhc0cl_y32I"
+        },
+        {
+          "current_key": "AIzaSyBd5273546UnuKly50rR_2vU00SEww4zSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535715572555-jf0a1do4g55undgv7o2ksno5mr1tcvd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535715572555-vp3qkp16q4gebjktm7486poq3poiiu36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactnativeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535715572555:android:b60b97e8af13118cc416ce",
+        "android_client_info": {
+          "package_name": "br.com.zoly.reactnativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535715572555-icbvusmdrj70hsdmssvauqvqkdqm6vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3NWnJPAHra96-CkMp3Etdhc0cl_y32I"
+        },
+        {
+          "current_key": "AIzaSyBd5273546UnuKly50rR_2vU00SEww4zSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535715572555-jf0a1do4g55undgv7o2ksno5mr1tcvd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535715572555-vp3qkp16q4gebjktm7486poq3poiiu36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactnativeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535715572555:android:0fd071c6f12be30bc416ce",
+        "android_client_info": {
+          "package_name": "com.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535715572555-icbvusmdrj70hsdmssvauqvqkdqm6vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3NWnJPAHra96-CkMp3Etdhc0cl_y32I"
+        },
+        {
+          "current_key": "AIzaSyBd5273546UnuKly50rR_2vU00SEww4zSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535715572555-jf0a1do4g55undgv7o2ksno5mr1tcvd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535715572555-vp3qkp16q4gebjktm7486poq3poiiu36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactnativeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535715572555:android:1e7a6dd33b23fcb9c416ce",
+        "android_client_info": {
+          "package_name": "com.rocketshoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535715572555-icbvusmdrj70hsdmssvauqvqkdqm6vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3NWnJPAHra96-CkMp3Etdhc0cl_y32I"
+        },
+        {
+          "current_key": "AIzaSyBd5273546UnuKly50rR_2vU00SEww4zSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535715572555-jf0a1do4g55undgv7o2ksno5mr1tcvd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535715572555-vp3qkp16q4gebjktm7486poq3poiiu36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactnativeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535715572555:android:640fc23fccfe5ba8c416ce",
+        "android_client_info": {
+          "package_name": "com.teste_firebase_ecommerce_rn_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535715572555-icbvusmdrj70hsdmssvauqvqkdqm6vcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3NWnJPAHra96-CkMp3Etdhc0cl_y32I"
+        },
+        {
+          "current_key": "AIzaSyBd5273546UnuKly50rR_2vU00SEww4zSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535715572555-jf0a1do4g55undgv7o2ksno5mr1tcvd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535715572555-vp3qkp16q4gebjktm7486poq3poiiu36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactnativeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
